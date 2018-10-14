@@ -1,4 +1,7 @@
-# dc_load_control
+![imagem](finished_pcb.jpg)
+
+# DC LOAD CONTROL, aka "External Mosfet"
+
 DC charge controller, originally created to control heated 3D printer desks.
 
 Based on https://github.com/Digital-Sqrt/Little-Driver
